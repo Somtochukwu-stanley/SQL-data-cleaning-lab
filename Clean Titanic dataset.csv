@@ -1,0 +1,715 @@
+PassengerId,Name,Sex,No_of_siblings_aboard,Parents_&_children,Ticket, Ticket_Fare ,Port_Embarked,Age_Group,Citizens_Status,survivors
+1, Mr. Owen Harris,male,1,0,A/5 21171, £7.25 ,Southampton,Youth,Third class,dead
+2, Mrs. John Bradley,female,1,0,PC 17599, £71.28 ,Cherbourg,middle age,First class,survivor
+3, Miss. Laina,female,0,0,STON/O2. 3101282, £7.92 ,Southampton,Youth,Third class,survivor
+4, Mrs. Jacques Heath,female,1,0,113803, £53.10 ,Southampton,middle age,First class,survivor
+5, Mr. William Henry,male,0,0,373450, £8.05 ,Southampton,middle age,Third class,dead
+7, Mr. Timothy J,male,0,0,17463, £51.86 ,Southampton,old,First class,dead
+8, Master. Gosta Leonard,male,3,1,349909, £21.08 ,Southampton,kid,Third class,dead
+9, Mrs. Oscar W,female,0,2,347742, £11.13 ,Southampton,Youth,Third class,survivor
+10, Mrs. Nicholas Adele,female,1,0,237736, £30.07 ,Cherbourg,Teen,Second class,survivor
+11, Miss. Marguerite Rut,female,1,1,PP 9549, £16.70 ,Southampton,kid,Third class,survivor
+12, Miss. Elizabeth,female,0,0,113783, £26.55 ,Southampton,old,First class,survivor
+13, Mr. William Henry,male,0,0,A/5. 2151, £8.05 ,Southampton,Youth,Third class,dead
+14, Mr. Anders Johan,male,1,5,347082, £31.28 ,Southampton,middle age,Third class,dead
+15, Miss. Hulda Amanda,female,0,0,350406, £7.85 ,Southampton,Teen,Third class,dead
+16, Mrs. Mary D,female,0,0,248706, £16.00 ,Southampton,old,Second class,survivor
+17, Master. Eugene,male,4,1,382652, £29.12 ,Queenstown,kid,Third class,dead
+19, Mrs. Julius Emelia,female,1,0,345763, £18.00 ,Southampton,middle age,Third class,dead
+21, Mr. Joseph J,male,0,0,239865, £26.00 ,Southampton,middle age,Second class,dead
+22, Mr. Lawrence,male,0,0,248698, £13.00 ,Southampton,middle age,Second class,survivor
+23," Miss. Anna Annie""""""""",female,0,0,330923, £8.03 ,Queenstown,Teen,Third class,survivor
+24, Mr. William Thompson,male,0,0,113788, £35.50 ,Southampton,Youth,First class,survivor
+25, Miss. Torborg Danira,female,3,1,349909, £21.08 ,Southampton,kid,Third class,dead
+26, Mrs. Carl Oscar,female,1,5,347077, £31.39 ,Southampton,middle age,Third class,survivor
+28, Mr. Charles Alexander,male,3,2,19950, £263.00 ,Southampton,Youth,First class,dead
+31, Don. Manuel E,male,0,0,PC 17601, £27.72 ,Cherbourg,middle age,First class,dead
+34, Mr. Edward H,male,0,0,C.A. 24579, £10.50 ,Southampton,old,Second class,dead
+35, Mr. Edgar Joseph,male,1,0,PC 17604, £82.17 ,Cherbourg,Youth,First class,dead
+36, Mr. Alexander Oskar,male,1,0,113789, £52.00 ,Southampton,middle age,First class,dead
+38, Mr. Ernest Charles,male,0,0,A./5. 2152, £8.05 ,Southampton,Youth,Third class,dead
+39, Miss. Augusta Maria,female,2,0,345764, £18.00 ,Southampton,Youth,Third class,dead
+40, Miss. Jamila,female,1,0,2651, £11.24 ,Cherbourg,Teen,Third class,survivor
+41, Mrs. Johan Johanna,female,1,0,7546, £9.48 ,Southampton,middle age,Third class,dead
+42, Mrs. William John,female,1,0,11668, £21.00 ,Southampton,Youth,Second class,dead
+44, Miss. Simonne Marie,female,1,2,SC/Paris 2123, £41.58 ,Cherbourg,kid,Second class,survivor
+45, Miss. Margaret Delia,female,0,0,330958, £7.88 ,Queenstown,Youth,Third class,survivor
+50, Mrs. Josef Josefine,female,1,0,349237, £17.80 ,Southampton,Youth,Third class,dead
+51, Master. Juha Niilo,male,4,1,3101295, £39.69 ,Southampton,kid,Third class,dead
+52, Mr. Richard Cater,male,0,0,A/4. 39886, £7.80 ,Southampton,Youth,Third class,dead
+53, Mrs. Henry Sleeper,female,1,0,PC 17572, £76.73 ,Cherbourg,middle age,First class,survivor
+54, Mrs. Lizzie Elizabeth,female,1,0,2926, £26.00 ,Southampton,Youth,Second class,survivor
+55, Mr. Engelhart Cornelius,male,0,1,113509, £61.98 ,Cherbourg,old,First class,dead
+57, Miss. Emily,female,0,0,C.A. 31026, £10.50 ,Southampton,Youth,Second class,survivor
+58, Mr. Mansouer,male,0,0,2697, £7.23 ,Cherbourg,Youth,Third class,dead
+59, Miss. Constance Mirium,female,1,2,C.A. 34651, £27.75 ,Southampton,kid,Second class,survivor
+60, Master. William Frederick,male,5,2,CA 2144, £46.90 ,Southampton,Teen,Third class,dead
+61, Mr. Orsen,male,0,0,2669, £7.23 ,Cherbourg,Youth,Third class,dead
+62, Miss. Amelie,female,0,0,113572, £80.00 ,NULL,middle age,First class,survivor
+63, Mr. Henry Birkhardt,male,1,0,36973, £83.48 ,Southampton,middle age,First class,dead
+64, Master. Harald,male,3,2,347088, £27.90 ,Southampton,kid,Third class,dead
+67, Mrs. Elizabeth Ramell,female,0,0,C.A. 29395, £10.50 ,Southampton,Youth,Second class,survivor
+68, Mr. Ernest James,male,0,0,S.P. 3464, £8.16 ,Southampton,Youth,Third class,dead
+69, Miss. Erna Alexandra,female,4,2,3101281, £7.92 ,Southampton,Teen,Third class,survivor
+70, Mr. Vincenz,male,2,0,315151, £8.66 ,Southampton,Youth,Third class,dead
+71, Mr. Stephen Curnow,male,0,0,C.A. 33111, £10.50 ,Southampton,middle age,Second class,dead
+72, Miss. Lillian Amy,female,5,2,CA 2144, £46.90 ,Southampton,Teen,Third class,dead
+73, Mr. Ambrose Jr,male,0,0,S.O.C. 14879, £73.50 ,Southampton,Youth,Second class,dead
+74, Mr. Apostolos,male,1,0,2680, £14.45 ,Cherbourg,Youth,Third class,dead
+75, Mr. Lee,male,0,0,1601, £56.50 ,Southampton,middle age,Third class,survivor
+76, Mr. Sigurd Hansen,male,0,0,348123, £7.65 ,Southampton,Youth,Third class,dead
+79, Master. Alden Gates,male,0,2,248738, £29.00 ,Southampton,kid,Second class,survivor
+80, Miss. Elizabeth,female,0,0,364516, £12.48 ,Southampton,Youth,Third class,survivor
+81, Mr. Achille,male,0,0,345767, £9.00 ,Southampton,Youth,Third class,dead
+82, Mr. Jan Baptist,male,0,0,345779, £9.50 ,Southampton,Youth,Third class,survivor
+84, Mr. Francisco M,male,0,0,113059, £47.10 ,Southampton,Youth,First class,dead
+85, Miss. Bertha,female,0,0,SO/C 14885, £10.50 ,Southampton,Teen,Second class,survivor
+86, Mrs. Karl Alfred,female,3,0,3101278, £15.85 ,Southampton,middle age,Third class,survivor
+87, Mr. William Neal,male,1,3,W./C. 6608, £34.38 ,Southampton,Teen,Third class,dead
+89, Miss. Mabel Helen,female,3,2,19950, £263.00 ,Southampton,Youth,First class,survivor
+90, Mr. Francesco,male,0,0,343275, £8.05 ,Southampton,Youth,Third class,dead
+91, Mr. Emil,male,0,0,343276, £8.05 ,Southampton,Youth,Third class,dead
+92, Mr. Paul Edvin,male,0,0,347466, £7.85 ,Southampton,Youth,Third class,dead
+93, Mr. Herbert Fuller,male,1,0,W.E.P. 5734, £61.18 ,Southampton,middle age,First class,dead
+94, Mr. Bertram Frank,male,1,2,C.A. 2315, £20.58 ,Southampton,Youth,Third class,dead
+95, Mr. Daniel,male,0,0,364500, £7.25 ,Southampton,old,Third class,dead
+97, Mr. George B,male,0,0,PC 17754, £34.65 ,Cherbourg,old,First class,dead
+98, Mr. William Bertram,male,0,1,PC 17759, £63.36 ,Cherbourg,Youth,First class,survivor
+99, Mrs. John T,female,0,1,231919, £23.00 ,Southampton,middle age,Second class,survivor
+100, Mr. Sinai,male,1,0,244367, £26.00 ,Southampton,middle age,Second class,dead
+101, Miss. Matilda,female,0,0,349245, £7.90 ,Southampton,Youth,Third class,dead
+103, Mr. Richard Frasar,male,0,1,35281, £77.29 ,Southampton,Youth,First class,dead
+104, Mr. Gustaf Joel,male,0,0,7540, £8.65 ,Southampton,middle age,Third class,dead
+105, Mr. Anders Vilhelm,male,2,0,3101276, £7.92 ,Southampton,middle age,Third class,dead
+106, Mr. Stoytcho,male,0,0,349207, £7.90 ,Southampton,Youth,Third class,dead
+107, Miss. Anna Kristine,female,0,0,343120, £7.65 ,Southampton,Youth,Third class,survivor
+109, Mr. Tido,male,0,0,349249, £7.90 ,Southampton,middle age,Third class,dead
+111, Mr. Walter Chamberlain,male,0,0,110465, £52.00 ,Southampton,middle age,First class,dead
+112, Miss. Hileni,female,1,0,2665, £14.45 ,Cherbourg,Teen,Third class,dead
+113, Mr. David John,male,0,0,324669, £8.05 ,Southampton,Youth,Third class,dead
+114, Miss. Katriina,female,1,0,4136, £9.82 ,Southampton,Youth,Third class,dead
+115, Miss. Malake,female,0,0,2627, £14.46 ,Cherbourg,Teen,Third class,dead
+116, Mr. Edvard,male,0,0,STON/O 2. 3101294, £7.92 ,Southampton,Youth,Third class,dead
+117, Mr. Patrick,male,0,0,370369, £7.75 ,Queenstown,old,Third class,dead
+118, Mr. William John,male,1,0,11668, £21.00 ,Southampton,Youth,Second class,dead
+119, Mr. Quigg Edmond,male,0,1,PC 17558, £247.52 ,Cherbourg,Youth,First class,dead
+120, Miss. Ellis Anna,female,4,2,347082, £31.28 ,Southampton,kid,Third class,dead
+121, Mr. Stanley George,male,2,0,S.O.C. 14879, £73.50 ,Southampton,Youth,Second class,dead
+123, Mr. Nicholas,male,1,0,237736, £30.07 ,Cherbourg,middle age,Second class,dead
+124, Miss. Susan,female,0,0,27267, £13.00 ,Southampton,middle age,Second class,survivor
+125, Mr. Percival Wayland,male,0,1,35281, £77.29 ,Southampton,old,First class,dead
+126, Master. Elias,male,1,0,2651, £11.24 ,Cherbourg,Teen,Third class,survivor
+128, Mr. Fridtjof Arne,male,0,0,C 17369, £7.14 ,Southampton,Youth,Third class,survivor
+130, Mr. Johan,male,0,0,347061, £6.98 ,Southampton,middle age,Third class,dead
+131, Mr. Jozef,male,0,0,349241, £7.90 ,Cherbourg,middle age,Third class,dead
+132, Mr. Domingos Fernandeo,male,0,0,SOTON/O.Q. 3101307, £7.05 ,Southampton,Youth,Third class,dead
+133, Mrs. Alexander A,female,1,0,A/5. 3337, £14.50 ,Southampton,middle age,Third class,dead
+134, Mrs. Leopold Mathilde,female,1,0,228414, £26.00 ,Southampton,Youth,Second class,survivor
+135, Mr. Samuel James,male,0,0,C.A. 29178, £13.00 ,Southampton,Youth,Second class,dead
+136, Mr. Emile,male,0,0,SC/PARIS 2133, £15.05 ,Cherbourg,Youth,Second class,dead
+137, Miss. Helen Monypeny,female,0,2,11752, £26.28 ,Southampton,Youth,First class,survivor
+138, Mr. Jacques Heath,male,1,0,113803, £53.10 ,Southampton,middle age,First class,dead
+139, Mr. Olaf Elon,male,0,0,7534, £9.22 ,Southampton,Teen,Third class,dead
+140, Mr. Victor,male,0,0,PC 17593, £79.20 ,Cherbourg,Youth,First class,dead
+142, Miss. Anna Sofia,female,0,0,347081, £7.75 ,Southampton,Youth,Third class,survivor
+143, Mrs. Pekka Pietari,female,1,0,STON/O2. 3101279, £15.85 ,Southampton,Youth,Third class,survivor
+144, Mr. Jeremiah,male,0,0,365222, £6.75 ,Queenstown,Youth,Third class,dead
+145, Mr. Edgardo Samuel,male,0,0,231945, £11.50 ,Southampton,Youth,Second class,dead
+146, Mr. Joseph Charles,male,1,1,C.A. 33112, £36.75 ,Southampton,Youth,Second class,dead
+147, Mr. August Edvard,male,0,0,350043, £7.80 ,Southampton,Youth,Third class,survivor
+148, Miss. Robina Maggie,female,2,2,W./C. 6608, £34.38 ,Southampton,kid,Third class,dead
+149," Mr. Michel Louis""",male,0,2,230080, £26.00 ,Southampton,middle age,Second class,dead
+150, Rev. Thomas Roussel,male,0,0,244310, £13.00 ,Southampton,middle age,Second class,dead
+151, Rev. Robert James,male,0,0,S.O.P. 1166, £12.52 ,Southampton,old,Second class,dead
+152, Mrs. Thomas Edith,female,1,0,113776, £66.60 ,Southampton,Youth,First class,survivor
+153, Mr. Alfonzo,male,0,0,A.5. 11206, £8.05 ,Southampton,old,Third class,dead
+154, Mr. Austin Blyler,male,0,2,A/5. 851, £14.50 ,Southampton,middle age,Third class,dead
+156, Mr. Charles Duane,male,0,1,PC 17597, £61.38 ,Cherbourg,old,First class,dead
+157," Miss. Katherine Katie""""""""",female,0,0,35851, £7.73 ,Queenstown,Teen,Third class,survivor
+158, Mr. Harry,male,0,0,SOTON/OQ 392090, £8.05 ,Southampton,Youth,Third class,dead
+161, Mr. John Hatfield,male,0,1,371362, £16.10 ,Southampton,middle age,Third class,dead
+162, Mrs. James Elizabeth,female,0,0,C.A. 33595, £15.75 ,Southampton,middle age,Second class,survivor
+163, Mr. John Viktor,male,0,0,347068, £7.78 ,Southampton,Youth,Third class,dead
+164, Mr. Jovo,male,0,0,315093, £8.66 ,Southampton,Teen,Third class,dead
+165, Master. Eino Viljami,male,4,1,3101295, £39.69 ,Southampton,kid,Third class,dead
+166, Master. Frank John,male,0,2,363291, £20.52 ,Southampton,kid,Third class,survivor
+168, Mrs. William Anna,female,1,4,347088, £27.90 ,Southampton,middle age,Third class,dead
+170, Mr. Lee,male,0,0,1601, £56.50 ,Southampton,Youth,Third class,dead
+171, Mr. Wyckoff,male,0,0,111240, £33.50 ,Southampton,old,First class,dead
+172, Master. Arthur,male,4,1,382652, £29.12 ,Queenstown,kid,Third class,dead
+173, Miss. Eleanor Ileen,female,1,1,347742, £11.13 ,Southampton,kid,Third class,survivor
+174, Mr. Antti Wilhelm,male,0,0,STON/O 2. 3101280, £7.92 ,Southampton,Youth,Third class,dead
+175, Mr. James Clinch,male,0,0,17764, £30.70 ,Cherbourg,old,First class,dead
+176, Mr. Klas Albin,male,1,1,350404, £7.85 ,Southampton,Youth,Third class,dead
+178, Miss. Ann Elizabeth,female,0,0,PC 17595, £28.71 ,Cherbourg,middle age,First class,dead
+179, Mr. Reginald,male,0,0,250653, £13.00 ,Southampton,Youth,Second class,dead
+180, Mr. Lionel,male,0,0,LINE, £-   ,Southampton,middle age,Third class,dead
+183, Master. Clarence Gustaf,male,4,2,347077, £31.39 ,Southampton,kid,Third class,dead
+184, Master. Richard F,male,2,1,230136, £39.00 ,Southampton,kid,Second class,survivor
+185, Miss. Luise Gretchen,female,0,2,315153, £22.02 ,Southampton,kid,Third class,survivor
+188, Mr. Charles Hallace,male,0,0,111428, £26.55 ,Southampton,middle age,First class,survivor
+189, Mr. John,male,1,1,364849, £15.50 ,Queenstown,middle age,Third class,dead
+190, Mr. Stjepan,male,0,0,349247, £7.90 ,Southampton,middle age,Third class,dead
+191, Mrs. Rosa ,female,0,0,234604, £13.00 ,Southampton,middle age,Second class,survivor
+192, Mr. William,male,0,0,28424, £13.00 ,Southampton,Youth,Second class,dead
+193, Miss. Carla Christine,female,1,0,350046, £7.85 ,Southampton,Youth,Third class,survivor
+194, Master. Michel M,male,1,1,230080, £26.00 ,Southampton,kid,Second class,survivor
+195, Mrs. James Joseph,female,0,0,PC 17610, £27.72 ,Cherbourg,middle age,First class,survivor
+196, Miss. Elise,female,0,0,PC 17569, £146.52 ,Cherbourg,old,First class,survivor
+198, Mr. Karl Siegwart,male,0,1,4579, £8.40 ,Southampton,middle age,Third class,dead
+200," Miss. Henriette Mrs""",female,0,0,248747, £13.00 ,Southampton,Youth,Second class,dead
+201, Mr. Nestor Cyriel,male,0,0,345770, £9.50 ,Southampton,Youth,Third class,dead
+203, Mr. Jakob Alfred,male,0,0,3101264, £6.50 ,Southampton,middle age,Third class,dead
+204, Mr. Gerious,male,0,0,2628, £7.22 ,Cherbourg,middle age,Third class,dead
+205," Mr. Gurshon Gus""""""""",male,0,0,A/5 3540, £8.05 ,Southampton,Youth,Third class,survivor
+206, Miss. Telma Matilda,female,0,1,347054, £10.46 ,Southampton,kid,Third class,dead
+207, Mr. Karl Alfred,male,1,0,3101278, £15.85 ,Southampton,middle age,Third class,dead
+208, Mr. Nassef Cassem,male,0,0,2699, £18.79 ,Cherbourg,Youth,Third class,survivor
+209," Miss. Helen Ellen""""""""",female,0,0,367231, £7.75 ,Queenstown,Teen,Third class,survivor
+210, Mr. Henry,male,0,0,112277, £31.00 ,Cherbourg,middle age,First class,survivor
+211, Mr. Ahmed,male,0,0,SOTON/O.Q. 3101311, £7.05 ,Southampton,Youth,Third class,dead
+212, Miss. Clear Annie,female,0,0,F.C.C. 13528, £21.00 ,Southampton,middle age,Second class,survivor
+213, Mr. John Henry,male,0,0,A/5 21174, £7.25 ,Southampton,Youth,Third class,dead
+214, Mr. Hans Kristensen,male,0,0,250646, £13.00 ,Southampton,Youth,Second class,dead
+216, Miss. Madeleine,female,1,0,35273, £113.28 ,Cherbourg,middle age,First class,survivor
+217, Miss. Eliina,female,0,0,STON/O2. 3101283, £7.92 ,Southampton,Youth,Third class,survivor
+218, Mr. Sidney Samuel,male,1,0,243847, £27.00 ,Southampton,middle age,Second class,dead
+219, Miss. Albina,female,0,0,11813, £76.29 ,Cherbourg,middle age,First class,survivor
+220, Mr. Walter,male,0,0,W/C 14208, £10.50 ,Southampton,Youth,Second class,dead
+221, Mr. Victor Francis,male,0,0,SOTON/OQ 392089, £8.05 ,Southampton,Teen,Third class,survivor
+222, Mr. James H,male,0,0,220367, £13.00 ,Southampton,Youth,Second class,dead
+223, Mr. George Henry,male,0,0,21440, £8.05 ,Southampton,old,Third class,dead
+225, Mr. Frederick Maxfield,male,1,0,19943, £90.00 ,Southampton,middle age,First class,survivor
+226, Mr. Karl Ivar,male,0,0,PP 4348, £9.35 ,Southampton,Youth,Third class,dead
+227, Mr. William John,male,0,0,SW/PP 751, £10.50 ,Southampton,Youth,Second class,survivor
+228, Mr. John Hall,male,0,0,A/5 21173, £7.25 ,Southampton,Youth,Third class,dead
+229, Mr. Arne Jonas,male,0,0,236171, £13.00 ,Southampton,Youth,Second class,dead
+231, Mrs. Henry Birkhardt,female,1,0,36973, £83.48 ,Southampton,middle age,First class,survivor
+232, Mr. Bengt Edvin,male,0,0,347067, £7.78 ,Southampton,Youth,Third class,dead
+233, Mr. Ernst Adolf,male,0,0,237442, £13.50 ,Southampton,old,Second class,dead
+234, Miss. Lillian Gertrud,female,4,2,347077, £31.39 ,Southampton,kid,Third class,survivor
+235, Mr. Robert William,male,0,0,C.A. 29566, £10.50 ,Southampton,Youth,Second class,dead
+237, Mr. Stephen,male,1,0,26707, £26.00 ,Southampton,middle age,Second class,dead
+238," Miss. Marjorie Lottie""""""""",female,0,2,C.A. 31921, £26.25 ,Southampton,kid,Second class,survivor
+239, Mr. Frederick William,male,0,0,28665, £10.50 ,Southampton,Youth,Second class,dead
+240, Mr. George Henry,male,0,0,SCO/W 1585, £12.28 ,Southampton,middle age,Second class,dead
+243, Mr. Reginald Charles,male,0,0,W./C. 14263, £10.50 ,Southampton,Youth,Second class,dead
+244, Mr. Matti Alexanteri,male,0,0,STON/O 2. 3101275, £7.12 ,Southampton,Youth,Third class,dead
+245, Mr. Sleiman,male,0,0,2694, £7.22 ,Cherbourg,Youth,Third class,dead
+246, Dr. William Edward,male,2,0,19928, £90.00 ,Queenstown,middle age,First class,dead
+247, Miss. Agda Thorilda,female,0,0,347071, £7.78 ,Southampton,Youth,Third class,dead
+248, Mrs. William Anna,female,0,2,250649, £14.50 ,Southampton,Youth,Second class,survivor
+249, Mr. Richard Leonard,male,1,1,11751, £52.55 ,Southampton,middle age,First class,survivor
+250, Rev. Ernest Courtenay,male,1,0,244252, £26.00 ,Southampton,old,Second class,dead
+252, Mrs. Wilhelm Elna,female,1,1,347054, £10.46 ,Southampton,Youth,Third class,dead
+253, Mr. William Thomas,male,0,0,113514, £26.55 ,Southampton,old,First class,dead
+254, Mr. William Arthur,male,1,0,A/5. 3336, £16.10 ,Southampton,Youth,Third class,dead
+255, Mrs. Viktor Helena,female,0,2,370129, £20.21 ,Southampton,middle age,Third class,dead
+256, Mrs. Darwis Hanne,female,0,2,2650, £15.25 ,Cherbourg,Youth,Third class,survivor
+258, Miss. Gladys,female,0,0,110152, £86.50 ,Southampton,Youth,First class,survivor
+259, Miss. Anna,female,0,0,PC 17755, £512.33 ,Cherbourg,middle age,First class,survivor
+260, Mrs. Lutie Davis,female,0,1,230433, £26.00 ,Southampton,middle age,Second class,survivor
+262, Master. Edvin Rojj,male,4,2,347077, £31.39 ,Southampton,kid,Third class,survivor
+263, Mr. Emil,male,1,1,110413, £79.65 ,Southampton,old,First class,dead
+264, Mr. William,male,0,0,112059, £-   ,Southampton,middle age,First class,dead
+266, Mr. David,male,0,0,C.A. 17248, £10.50 ,Southampton,middle age,Second class,dead
+267, Mr. Ernesti Arvid,male,4,1,3101295, £39.69 ,Southampton,Teen,Third class,dead
+268, Mr. Ernst Ulrik,male,1,0,347083, £7.78 ,Southampton,Youth,Third class,survivor
+269, Mrs. William Thompson,female,0,1,PC 17582, £153.46 ,Southampton,old,First class,survivor
+270, Miss. Amelia,female,0,0,PC 17760, £135.63 ,Southampton,middle age,First class,survivor
+272, Mr. William Henry,male,0,0,LINE, £-   ,Southampton,Youth,Third class,survivor
+273, Mrs. Elizabeth Anne,female,0,1,250644, £19.50 ,Southampton,middle age,Second class,survivor
+274, Mr. Charles H,male,0,1,PC 17596, £29.70 ,Cherbourg,middle age,First class,dead
+276, Miss. Kornelia Theodosia,female,1,0,13502, £77.96 ,Southampton,old,First class,survivor
+277, Miss. Augusta Charlotta,female,0,0,347073, £7.75 ,Southampton,middle age,Third class,dead
+279, Master. Eric,male,4,1,382652, £29.12 ,Queenstown,kid,Third class,dead
+280, Mrs. Stanton Rosa,female,1,1,C.A. 2673, £20.25 ,Southampton,middle age,Third class,survivor
+281, Mr. Frank,male,0,0,336439, £7.75 ,Queenstown,old,Third class,dead
+282, Mr. Nils Johan,male,0,0,347464, £7.85 ,Southampton,Youth,Third class,dead
+283, Mr. Alfons,male,0,0,345778, £9.50 ,Southampton,Teen,Third class,dead
+284, Mr. Edward Arthur,male,0,0,A/5. 10482, £8.05 ,Southampton,Youth,Third class,survivor
+286, Mr. Ivan,male,0,0,349239, £8.66 ,Cherbourg,middle age,Third class,dead
+287, Mr. Theodore,male,0,0,345774, £9.50 ,Southampton,Youth,Third class,survivor
+288, Mr. Penko,male,0,0,349206, £7.90 ,Southampton,Youth,Third class,dead
+289, Mr. Masabumi,male,0,0,237798, £13.00 ,Southampton,middle age,Second class,survivor
+290, Miss. Kate,female,0,0,370373, £7.75 ,Queenstown,Youth,Third class,survivor
+291," Miss. Ellen Nellie""""""""",female,0,0,19877, £78.85 ,Southampton,Youth,First class,survivor
+292, Mrs. Dickinson H,female,1,0,11967, £91.08 ,Cherbourg,Youth,First class,survivor
+293, Mr. Rene Jacques,male,0,0,SC/Paris 2163, £12.88 ,Cherbourg,middle age,Second class,dead
+294, Miss. Aloisia,female,0,0,349236, £8.85 ,Southampton,Youth,Third class,dead
+295, Mr. Ivan,male,0,0,349233, £7.90 ,Southampton,Youth,Third class,dead
+297, Mr. Mansour,male,0,0,2693, £7.23 ,Cherbourg,Youth,Third class,dead
+298, Miss. Helen Loraine,female,1,2,113781, £151.55 ,Southampton,kid,First class,dead
+300, Mrs. James Helene,female,0,1,PC 17558, £247.52 ,Cherbourg,middle age,First class,survivor
+303, Mr. William Cahoone,male,0,0,LINE, £-   ,Southampton,Youth,Third class,dead
+306, Master. Hudson Trevor,male,1,2,113781, £151.55 ,Southampton,kid,First class,survivor
+308, Mrs. Victor de,female,1,0,PC 17758, £108.90 ,Cherbourg,Teen,First class,survivor
+309, Mr. Samuel,male,1,0,P/PP 3381, £24.00 ,Cherbourg,Youth,Second class,dead
+310, Miss. Laura Mabel,female,0,0,PC 17485, £56.93 ,Cherbourg,Youth,First class,survivor
+311, Miss. Margaret Bechstein,female,0,0,11767, £83.16 ,Cherbourg,Youth,First class,survivor
+312, Miss. Emily Borie,female,2,2,PC 17608, £262.38 ,Cherbourg,Youth,First class,survivor
+313, Mrs. William Anna,female,1,1,250651, £26.00 ,Southampton,Youth,Second class,dead
+314, Mr. Ignjac,male,0,0,349243, £7.90 ,Southampton,Youth,Third class,dead
+315, Mr. Benjamin,male,1,1,F.C.C. 13529, £26.25 ,Southampton,middle age,Second class,dead
+316, Miss. Helmina Josefina,female,0,0,347470, £7.85 ,Southampton,Youth,Third class,survivor
+317, Mrs. Sinai Miriam,female,1,0,244367, £26.00 ,Southampton,Youth,Second class,survivor
+318, Dr. Ernest,male,0,0,29011, £14.00 ,Southampton,old,Second class,dead
+319, Miss. Mary Natalie,female,0,2,36928, £164.87 ,Southampton,middle age,First class,survivor
+320, Mrs. Frederic Oakley,female,1,1,16966, £134.50 ,Cherbourg,middle age,First class,survivor
+321, Mr. Samuel,male,0,0,A/5 21172, £7.25 ,Southampton,Youth,Third class,dead
+322, Mr. Yoto,male,0,0,349219, £7.90 ,Southampton,Youth,Third class,dead
+323, Miss. Hilda Mary,female,0,0,234818, £12.35 ,Queenstown,Youth,Second class,survivor
+324, Mrs. Albert Francis,female,1,1,248738, £29.00 ,Southampton,Youth,Second class,survivor
+326, Miss. Marie Grice,female,0,0,PC 17760, £135.63 ,Cherbourg,middle age,First class,survivor
+327, Mr. Johan Hansen,male,0,0,345364, £6.24 ,Southampton,old,Third class,dead
+328, Mrs. Ada E,female,0,0,28551, £13.00 ,Southampton,middle age,Second class,survivor
+329, Mrs. Frank John,female,1,1,363291, £20.52 ,Southampton,middle age,Third class,survivor
+330, Miss. Jean Gertrude,female,0,1,111361, £57.98 ,Cherbourg,Teen,First class,survivor
+332, Mr. Austen,male,0,0,113043, £28.50 ,Southampton,middle age,First class,dead
+333, Mr. George Edward,male,0,1,PC 17582, £153.46 ,Southampton,middle age,First class,dead
+334, Mr. Leo Edmondus,male,2,0,345764, £18.00 ,Southampton,Teen,Third class,dead
+337, Mr. Thomas Clinton,male,1,0,113776, £66.60 ,Southampton,Youth,First class,dead
+338, Miss. Elizabeth Margaret,female,0,0,16966, £134.50 ,Cherbourg,middle age,First class,survivor
+339, Mr. Karl Edwart,male,0,0,7598, £8.05 ,Southampton,middle age,Third class,survivor
+340, Mr. Stephen Weart,male,0,0,113784, £35.50 ,Southampton,middle age,First class,dead
+341, Master. Edmond Roger,male,1,1,230080, £26.00 ,Southampton,kid,Second class,survivor
+342, Miss. Alice Elizabeth,female,3,2,19950, £263.00 ,Southampton,Youth,First class,survivor
+343, Mr. Erik Gustaf,male,0,0,248740, £13.00 ,Southampton,Youth,Second class,dead
+344, Mr. Charles Frederick,male,0,0,244361, £13.00 ,Southampton,Youth,Second class,dead
+345, Mr. Stanley Hubert,male,0,0,229236, £13.00 ,Southampton,middle age,Second class,dead
+346," Miss. Amelia Mildred""""""""",female,0,0,248733, £13.00 ,Southampton,Youth,Second class,survivor
+347, Miss. Marion Elsie,female,0,0,31418, £13.00 ,Southampton,middle age,Second class,survivor
+349, Master. William Loch,male,1,1,C.A. 37671, £15.90 ,Southampton,kid,Third class,survivor
+350, Mr. Jovan,male,0,0,315088, £8.66 ,Southampton,middle age,Third class,dead
+351, Mr. Nils Martin,male,0,0,7267, £9.22 ,Southampton,Youth,Third class,dead
+353, Mr. Tannous,male,1,1,2695, £7.23 ,Cherbourg,Teen,Third class,dead
+354, Mr. Josef,male,1,0,349237, £17.80 ,Southampton,Youth,Third class,dead
+356, Mr. Leo Peter,male,0,0,345783, £9.50 ,Southampton,Youth,Third class,dead
+357, Miss. Elsie Edith,female,0,1,113505, £55.00 ,Southampton,Youth,First class,survivor
+358, Miss. Annie Clemmer,female,0,0,237671, £13.00 ,Southampton,middle age,Second class,dead
+361, Mr. Wilhelm,male,1,4,347088, £27.90 ,Southampton,middle age,Third class,dead
+362, Mr. Sebastiano,male,1,0,SC/PARIS 2167, £27.72 ,Cherbourg,Youth,Second class,dead
+363, Mrs. Catherine David,female,0,1,2691, £14.45 ,Cherbourg,middle age,Third class,dead
+364, Mr. Adola,male,0,0,SOTON/O.Q. 3101310, £7.05 ,Southampton,middle age,Third class,dead
+366, Mr. Mauritz Nils,male,0,0,C 7076, £7.25 ,Southampton,Youth,Third class,dead
+367, Mrs. Frank Manley,female,1,0,110813, £75.25 ,Cherbourg,old,First class,survivor
+370, Mme. Leontine Pauline,female,0,0,PC 17477, £69.30 ,Cherbourg,Youth,First class,survivor
+371, Mr. George Achilles,male,1,0,11765, £55.44 ,Cherbourg,Youth,First class,survivor
+372, Mr. Jakob Alfred,male,1,0,3101267, £6.50 ,Southampton,Youth,Third class,dead
+373, Mr. William Thomas,male,0,0,323951, £8.05 ,Southampton,Youth,Third class,dead
+374, Mr. Sante,male,0,0,PC 17760, £135.63 ,Cherbourg,Youth,First class,dead
+375, Miss. Stina Viola,female,3,1,349909, £21.08 ,Southampton,kid,Third class,dead
+377, Miss. Aurora Adelia,female,0,0,C 7077, £7.25 ,Southampton,Youth,Third class,survivor
+378, Mr. Harry Elkins,male,0,2,113503, £211.50 ,Cherbourg,Youth,First class,dead
+379, Mr. Tannous,male,0,0,2648, £4.01 ,Cherbourg,Youth,Third class,dead
+380, Mr. Karl Gideon,male,0,0,347069, £7.78 ,Southampton,Youth,Third class,dead
+381, Miss. Rosalie,female,0,0,PC 17757, £227.52 ,Cherbourg,middle age,First class,survivor
+382," Miss. Maria Mary""""""",female,0,2,2653, £15.74 ,Cherbourg,kid,Third class,survivor
+383, Mr. Juho,male,0,0,STON/O 2. 3101293, £7.92 ,Southampton,middle age,Third class,dead
+384, Mrs. Alexander Oskar,female,1,0,113789, £52.00 ,Southampton,middle age,First class,survivor
+386, Mr. Charles Henry,male,0,0,S.O.C. 14879, £73.50 ,Southampton,Youth,Second class,dead
+387, Master. Sidney Leonard,male,5,2,CA 2144, £46.90 ,Southampton,kid,Third class,dead
+388, Miss. Kate,female,0,0,27849, £13.00 ,Southampton,middle age,Second class,survivor
+390, Miss. Bertha,female,0,0,SC 1748, £12.00 ,Cherbourg,Teen,Second class,survivor
+391, Mr. William Ernest,male,1,2,113760, £120.00 ,Southampton,middle age,First class,survivor
+392, Mr. Carl Olof,male,0,0,350034, £7.80 ,Southampton,Youth,Third class,survivor
+393, Mr. Johan Birger,male,2,0,3101277, £7.92 ,Southampton,Youth,Third class,dead
+394, Miss. Marjorie,female,1,0,35273, £113.28 ,Cherbourg,Youth,First class,survivor
+395, Mrs. Hjalmar Agnes,female,0,2,PP 9549, £16.70 ,Southampton,Youth,Third class,survivor
+396, Mr. Erik,male,0,0,350052, £7.80 ,Southampton,Youth,Third class,dead
+397, Miss. Elina,female,0,0,350407, £7.85 ,Southampton,middle age,Third class,dead
+398, Mr. Peter David,male,0,0,28403, £26.00 ,Southampton,middle age,Second class,dead
+399, Dr. Alfred,male,0,0,244278, £10.50 ,Southampton,Youth,Second class,dead
+400, Mrs. William H,female,0,0,240929, £12.65 ,Southampton,Youth,Second class,survivor
+401, Mr. Juha,male,0,0,STON/O 2. 3101289, £7.92 ,Southampton,middle age,Third class,survivor
+402, Mr. John,male,0,0,341826, £8.05 ,Southampton,Youth,Third class,dead
+403, Miss. Mari Aina,female,1,0,4137, £9.82 ,Southampton,Youth,Third class,dead
+404, Mr. Pekka Pietari,male,1,0,STON/O2. 3101279, £15.85 ,Southampton,Youth,Third class,dead
+405, Miss. Marija,female,0,0,315096, £8.66 ,Southampton,Youth,Third class,dead
+406, Mr. Shadrach,male,1,0,28664, £21.00 ,Southampton,middle age,Second class,dead
+407, Mr. Carl/Charles Peter,male,0,0,347064, £7.75 ,Southampton,old,Third class,dead
+408, Master. William Rowe,male,1,1,29106, £18.75 ,Southampton,kid,Second class,survivor
+409, Mr. Hans Martin,male,0,0,312992, £7.78 ,Southampton,Youth,Third class,dead
+413, Miss. Daisy E,female,1,0,19928, £90.00 ,Queenstown,middle age,First class,survivor
+415, Mr. Johan Julian,male,0,0,STON/O 2. 3101269, £7.92 ,Southampton,middle age,Third class,survivor
+417, Mrs. James Vivian,female,1,1,28220, £32.50 ,Southampton,middle age,Second class,survivor
+418, Miss. Lyyli Karoliina,female,0,2,250652, £13.00 ,Southampton,Youth,Second class,survivor
+419, Mr. William John,male,0,0,28228, £13.00 ,Southampton,Youth,Second class,dead
+420, Miss. Catharina,female,0,2,345773, £24.15 ,Southampton,kid,Third class,dead
+422, Mr. David,male,0,0,A/5. 13032, £7.73 ,Queenstown,Youth,Third class,dead
+423, Mr. Leo,male,0,0,315082, £7.88 ,Southampton,Youth,Third class,dead
+424, Mrs. Ernst Gilbert,female,1,1,347080, £14.40 ,Southampton,Youth,Third class,dead
+425, Mr. Viktor Richard,male,1,1,370129, £20.21 ,Southampton,Youth,Third class,dead
+427, Mrs. Charles V,female,1,0,2003, £26.00 ,Southampton,Youth,Second class,survivor
+428, Miss. Kate Florence,female,0,0,250655, £26.00 ,Southampton,Youth,Second class,survivor
+430, Mr. Berk Berk,male,0,0,SOTON/O.Q. 392078, £8.05 ,Southampton,middle age,Third class,survivor
+431, Mr. Mauritz Hakan,male,0,0,110564, £26.55 ,Southampton,Youth,First class,survivor
+433, Mrs. Charles Alexander,female,1,0,SC/AH 3085, £26.00 ,Southampton,middle age,Second class,survivor
+434, Mr. Nikolai Erland,male,0,0,STON/O 2. 3101274, £7.12 ,Southampton,Teen,Third class,dead
+435, Mr. William Baird,male,1,0,13507, £55.90 ,Southampton,middle age,First class,dead
+436, Miss. Lucile Polk,female,1,2,113760, £120.00 ,Southampton,Teen,First class,survivor
+437, Miss. Doolina Margaret,female,2,2,W./C. 6608, £34.38 ,Southampton,Youth,Third class,dead
+438, Mrs. Sidney Emily,female,2,3,29106, £18.75 ,Southampton,Youth,Second class,survivor
+439, Mr. Mark,male,1,4,19950, £263.00 ,Southampton,old,First class,dead
+440, Mr. Johan Henrik,male,0,0,C.A. 18723, £10.50 ,Southampton,middle age,Second class,dead
+441, Mrs. Benjamin Esther,female,1,1,F.C.C. 13529, £26.25 ,Southampton,middle age,Second class,survivor
+442, Mr. Leon,male,0,0,345769, £9.50 ,Southampton,Youth,Third class,dead
+443, Mr. Johan Emil,male,1,0,347076, £7.78 ,Southampton,Youth,Third class,dead
+444, Ms. Encarnacion,female,0,0,230434, £13.00 ,Southampton,Youth,Second class,survivor
+446, Master. Washington,male,0,2,33638, £81.86 ,Southampton,kid,First class,survivor
+447, Miss. Madeleine Violet,female,0,1,250644, £19.50 ,Southampton,Teen,Second class,survivor
+448, Mr. Frederic Kimber,male,0,0,113794, £26.55 ,Southampton,middle age,First class,survivor
+449, Miss. Marie Catherine,female,2,1,2666, £19.26 ,Cherbourg,kid,Third class,survivor
+450, Major. Arthur Godfrey,male,0,0,113786, £30.50 ,Southampton,old,First class,survivor
+451, Mr. Edwy Arthur,male,1,2,C.A. 34651, £27.75 ,Southampton,middle age,Second class,dead
+453, Mr. Benjamin Laventall,male,0,0,113051, £27.75 ,Cherbourg,Youth,First class,dead
+454, Mr. Samuel L,male,1,0,17453, £89.10 ,Cherbourg,middle age,First class,survivor
+456, Mr. Ivan,male,0,0,349240, £7.90 ,Cherbourg,Youth,Third class,survivor
+457, Mr. Francis Davis,male,0,0,13509, £26.55 ,Southampton,old,First class,dead
+459, Miss. Ellen,female,0,0,F.C.C. 13531, £10.50 ,Southampton,middle age,Second class,survivor
+461, Mr. Harry,male,0,0,19952, £26.55 ,Southampton,middle age,First class,survivor
+462, Mr. William,male,0,0,364506, £8.05 ,Southampton,middle age,Third class,dead
+463, Mr. Arthur H,male,0,0,111320, £38.50 ,Southampton,middle age,First class,dead
+464, Mr. Jacob Christian,male,0,0,234360, £13.00 ,Southampton,middle age,Second class,dead
+466, Mr. Manuel Estanslas,male,0,0,SOTON/O.Q. 3101306, £7.05 ,Southampton,middle age,Third class,dead
+468, Mr. John Montgomery,male,0,0,113792, £26.55 ,Southampton,old,First class,dead
+470, Miss. Helene Barbara,female,2,1,2666, £19.26 ,Cherbourg,kid,Third class,survivor
+472, Mr. Luka,male,0,0,315089, £8.66 ,Southampton,middle age,Third class,dead
+473, Mrs. Edwy Arthur,female,1,2,C.A. 34651, £27.75 ,Southampton,middle age,Second class,survivor
+474, Mrs. Amin S,female,0,0,SC/AH Basle 541, £13.79 ,Cherbourg,Youth,Second class,survivor
+475, Miss. Ida Sofia,female,0,0,7553, £9.84 ,Southampton,Youth,Third class,dead
+477, Mr. Peter Henry,male,1,0,31027, £21.00 ,Southampton,middle age,Second class,dead
+478, Mr. Lewis Richard,male,1,0,3460, £7.05 ,Southampton,Youth,Third class,dead
+479, Mr. Nils August,male,0,0,350060, £7.52 ,Southampton,Youth,Third class,dead
+480, Miss. Hildur E,female,0,1,3101298, £12.29 ,Southampton,kid,Third class,survivor
+481, Master. Harold Victor,male,5,2,CA 2144, £46.90 ,Southampton,kid,Third class,dead
+483, Mr. Richard Henry,male,0,0,A/5 3594, £8.05 ,Southampton,middle age,Third class,dead
+484, Mrs. Hedwig ,female,0,0,4134, £9.59 ,Southampton,old,Third class,survivor
+485, Mr. Dickinson H,male,1,0,11967, £91.08 ,Cherbourg,Youth,First class,survivor
+487, Mrs. Frederick Maxfield,female,1,0,19943, £90.00 ,Southampton,middle age,First class,survivor
+488, Mr. Edward Austin,male,0,0,11771, £29.70 ,Cherbourg,old,First class,dead
+489, Mr. Francis William,male,0,0,A.5. 18509, £8.05 ,Southampton,Youth,Third class,dead
+490, Master. Eden Leslie,male,1,1,C.A. 37671, £15.90 ,Southampton,kid,Third class,survivor
+492, Mr. Einar,male,0,0,SOTON/OQ 3101317, £7.25 ,Southampton,Youth,Third class,dead
+493, Mr. Harry Markland,male,0,0,113787, £30.50 ,Southampton,old,First class,dead
+494, Mr. Ramon,male,0,0,PC 17609, £49.50 ,Cherbourg,old,First class,dead
+495, Mr. Edward Roland,male,0,0,A/4 45380, £8.05 ,Southampton,Youth,Third class,dead
+497, Miss. Elizabeth Mussey,female,1,0,36947, £78.27 ,Cherbourg,old,First class,survivor
+499, Mrs. Hudson J,female,1,2,113781, £151.55 ,Southampton,Youth,First class,dead
+500, Mr. Olof,male,0,0,350035, £7.80 ,Southampton,Youth,Third class,dead
+501, Mr. Petar,male,0,0,315086, £8.66 ,Southampton,Teen,Third class,dead
+502, Miss. Mary,female,0,0,364846, £7.75 ,Queenstown,Youth,Third class,dead
+504, Miss. Kristina Sofia,female,0,0,4135, £9.59 ,Southampton,middle age,Third class,dead
+505, Miss. Roberta,female,0,0,110152, £86.50 ,Southampton,Teen,First class,survivor
+506, Mr. Victor de,male,1,0,PC 17758, £108.90 ,Cherbourg,Youth,First class,dead
+507, Mrs. Frederick Charles,female,0,2,26360, £26.00 ,Southampton,middle age,Second class,survivor
+509, Mr. Henry Margido,male,0,0,C 4001, £22.52 ,Southampton,Youth,Third class,dead
+510, Mr. Fang,male,0,0,1601, £56.50 ,Southampton,Youth,Third class,survivor
+511, Mr. Eugene Patrick,male,0,0,382651, £7.75 ,Queenstown,Youth,Third class,survivor
+513, Mr. James Robert,male,0,0,PC 17473, £26.29 ,Southampton,middle age,First class,survivor
+514, Mrs. Martin Elizabeth,female,1,0,PC 17603, £59.40 ,Cherbourg,old,First class,survivor
+515, Mr. Satio,male,0,0,349209, £7.50 ,Southampton,Youth,Third class,dead
+516, Mr. William Anderson,male,0,0,36967, £34.02 ,Southampton,middle age,First class,dead
+517, Mrs. Amelia Milley,female,0,0,C.A. 34260, £10.50 ,Southampton,middle age,Second class,survivor
+519, Mrs. William A,female,1,0,226875, £26.00 ,Southampton,middle age,Second class,survivor
+520, Mr. Stefo,male,0,0,349242, £7.90 ,Southampton,middle age,Third class,dead
+521, Miss. Anne,female,0,0,12749, £93.50 ,Southampton,Youth,First class,survivor
+522, Mr. Janko,male,0,0,349252, £7.90 ,Southampton,Youth,Third class,dead
+524, Mrs. Louis Albert,female,0,1,111361, £57.98 ,Cherbourg,middle age,First class,survivor
+526, Mr. James,male,0,0,367232, £7.75 ,Queenstown,middle age,Third class,dead
+527, Miss. Lucy,female,0,0,W./C. 14258, £10.50 ,Southampton,middle age,Second class,survivor
+529, Mr. Johan Werner,male,0,0,3101296, £7.92 ,Southampton,middle age,Third class,dead
+530, Mr. Richard George,male,2,1,29104, £11.50 ,Southampton,Youth,Second class,dead
+531, Miss. Phyllis May,female,1,1,26360, £26.00 ,Southampton,kid,Second class,survivor
+533, Mr. Joseph Jr,male,1,1,2690, £7.23 ,Cherbourg,Teen,Third class,dead
+535, Miss. Marija,female,0,0,315084, £8.66 ,Southampton,Youth,Third class,dead
+536, Miss. Eva Miriam,female,0,2,F.C.C. 13529, £26.25 ,Southampton,kid,Second class,survivor
+537, Major. Archibald Willingham,male,0,0,113050, £26.55 ,Southampton,middle age,First class,dead
+538, Miss. Bertha,female,0,0,PC 17761, £106.42 ,Cherbourg,Youth,First class,survivor
+540, Miss. Hedwig Margaritha,female,0,2,13568, £49.50 ,Cherbourg,Youth,First class,survivor
+541, Miss. Harriet R,female,0,2,WE/P 5735, £71.00 ,Southampton,middle age,First class,survivor
+542, Miss. Ingeborg Constanzia,female,4,2,347082, £31.28 ,Southampton,kid,Third class,dead
+543, Miss. Sigrid Elisabeth,female,4,2,347082, £31.28 ,Southampton,Teen,Third class,dead
+544, Mr. Edward,male,1,0,2908, £26.00 ,Southampton,middle age,Second class,survivor
+545, Mr. Walter Donald,male,1,0,PC 17761, £106.42 ,Cherbourg,middle age,First class,dead
+546, Mr. Arthur Ernest,male,0,0,693, £26.00 ,Southampton,old,First class,dead
+547, Mrs. Edward Ethel,female,1,0,2908, £26.00 ,Southampton,Youth,Second class,survivor
+549, Mr. Frank John,male,1,1,363291, £20.52 ,Southampton,middle age,Third class,dead
+550, Master. John Morgan,male,1,1,C.A. 33112, £36.75 ,Southampton,kid,Second class,survivor
+551, Mr. John Borland,male,0,2,17421, £110.88 ,Cherbourg,Teen,First class,survivor
+552, Mr. Percival James,male,0,0,244358, £26.00 ,Southampton,Youth,Second class,dead
+554," Mr. Fahim Philip""",male,0,0,2620, £7.22 ,Cherbourg,Youth,Third class,survivor
+555, Miss. Velin,female,0,0,347085, £7.78 ,Southampton,Youth,Third class,survivor
+556, Mr. George,male,0,0,113807, £26.55 ,Southampton,old,First class,dead
+557, Lady. Lucille Christiana,female,1,0,11755, £39.60 ,Cherbourg,middle age,First class,survivor
+559, Mrs. Emil Tillie,female,1,1,110413, £79.65 ,Southampton,middle age,First class,survivor
+560, Mrs. Guillaume Joseph,female,1,0,345572, £17.40 ,Southampton,middle age,Third class,survivor
+562, Mr. Husein,male,0,0,349251, £7.90 ,Southampton,middle age,Third class,dead
+563, Mr. Robert Douglas,male,0,0,218629, £13.50 ,Southampton,Youth,Second class,dead
+566, Mr. Alfred J,male,2,0,A/4 48871, £24.15 ,Southampton,Youth,Third class,dead
+567, Mr. Ilia,male,0,0,349205, £7.90 ,Southampton,Youth,Third class,dead
+568, Mrs. Nils Alma,female,0,4,349909, £21.08 ,Southampton,Youth,Third class,dead
+570, Mr. Carl,male,0,0,350417, £7.85 ,Southampton,middle age,Third class,survivor
+571, Mr. George,male,0,0,S.W./PP 752, £10.50 ,Southampton,old,Second class,survivor
+572, Mrs. Edward Dale,female,2,0,11769, £51.48 ,Southampton,old,First class,survivor
+573, Mr. John Irwin,male,0,0,PC 17474, £26.39 ,Southampton,middle age,First class,survivor
+575, Mr. Alfred George,male,0,0,A/4. 20589, £8.05 ,Southampton,Teen,Third class,dead
+576, Mr. George,male,0,0,358585, £14.50 ,Southampton,Youth,Third class,dead
+577, Miss. Ethel,female,0,0,243880, £13.00 ,Southampton,middle age,Second class,survivor
+578, Mrs. William Baird,female,1,0,13507, £55.90 ,Southampton,middle age,First class,survivor
+580, Mr. Eiriik,male,0,0,STON/O 2. 3101286, £7.92 ,Southampton,middle age,Third class,survivor
+581, Miss. Julie Rachel,female,1,1,237789, £30.00 ,Southampton,Youth,Second class,survivor
+582, Mrs. John Borland,female,1,1,17421, £110.88 ,Cherbourg,middle age,First class,survivor
+583, Mr. William James,male,0,0,28403, £26.00 ,Southampton,old,Second class,dead
+584, Mr. John Hugo,male,0,0,13049, £40.12 ,Cherbourg,middle age,First class,dead
+586, Miss. Ruth,female,0,2,110413, £79.65 ,Southampton,Youth,First class,survivor
+587, Mr. John Denzil,male,0,0,237565, £15.00 ,Southampton,middle age,Second class,dead
+588, Mr. Maxmillian,male,1,1,13567, £79.20 ,Cherbourg,old,First class,survivor
+589, Mr. Eliezer,male,0,0,14973, £8.05 ,Southampton,Youth,Third class,dead
+591, Mr. Matti,male,0,0,STON/O 2. 3101273, £7.12 ,Southampton,middle age,Third class,dead
+592, Mrs. Walter Bertram,female,1,0,36947, £78.27 ,Cherbourg,old,First class,survivor
+593, Mr. William James,male,0,0,A/5 3902, £7.25 ,Southampton,middle age,Third class,dead
+595, Mr. John Henry,male,1,0,SC/AH 29037, £26.00 ,Southampton,middle age,Second class,dead
+596, Mr. Jean Baptiste,male,1,1,345773, £24.15 ,Southampton,middle age,Third class,dead
+598, Mr. Alfred,male,0,0,LINE, £-   ,Southampton,middle age,Third class,dead
+600, Sir. Cosmo Edmund,male,1,0,PC 17485, £56.93 ,Cherbourg,middle age,First class,survivor
+601, Mrs. Sidney Samuel,female,2,1,243847, £27.00 ,Southampton,Youth,Second class,survivor
+604, Mr. Ernst William,male,0,0,364511, £8.05 ,Southampton,middle age,Third class,dead
+605," Mr. Harry Mr""",male,0,0,111426, £26.55 ,Cherbourg,middle age,First class,survivor
+606, Mr. Edvard Bengtsson,male,1,0,349910, £15.55 ,Southampton,middle age,Third class,dead
+607, Mr. Milan,male,0,0,349246, £7.90 ,Southampton,Youth,Third class,dead
+608, Mr. Robert Williams,male,0,0,113804, £30.50 ,Southampton,Youth,First class,survivor
+609, Mrs. Joseph Juliette,female,1,2,SC/Paris 2123, £41.58 ,Cherbourg,Youth,Second class,survivor
+610, Miss. Elizabeth W,female,0,0,PC 17582, £153.46 ,Southampton,middle age,First class,survivor
+611, Mrs. Anders Johan,female,1,5,347082, £31.28 ,Southampton,middle age,Third class,dead
+615, Mr. William Alfred,male,0,0,364512, £8.05 ,Southampton,middle age,Third class,dead
+616, Miss. Alice,female,1,2,220845, £65.00 ,Southampton,Youth,Second class,survivor
+617, Mr. Ernst Gilbert,male,1,1,347080, £14.40 ,Southampton,middle age,Third class,dead
+618, Mrs. William Arthur,female,1,0,A/5. 3336, £16.10 ,Southampton,Youth,Third class,dead
+619, Miss. Marion Louise,female,2,1,230136, £39.00 ,Southampton,kid,Second class,survivor
+620, Mr. Lawrence,male,0,0,31028, £10.50 ,Southampton,Youth,Second class,dead
+621, Mr. Antoni,male,1,0,2659, £14.45 ,Cherbourg,Youth,Third class,dead
+622, Mr. Edwin Nelson,male,1,0,11753, £52.55 ,Southampton,middle age,First class,survivor
+623, Mr. Sahid,male,1,1,2653, £15.74 ,Cherbourg,Youth,Third class,survivor
+624, Mr. Henry Damsgaard,male,0,0,350029, £7.85 ,Southampton,Youth,Third class,dead
+625, Mr. David John,male,0,0,54636, £16.10 ,Southampton,Youth,Third class,dead
+626, Mr. Frederick,male,0,0,36963, £32.32 ,Southampton,old,First class,dead
+627, Rev. Charles Leonard,male,0,0,219533, £12.35 ,Queenstown,old,Second class,dead
+628, Miss. Gretchen Fiske,female,0,0,13502, £77.96 ,Southampton,Youth,First class,survivor
+629, Mr. Guentcho,male,0,0,349224, £7.90 ,Southampton,Youth,Third class,dead
+631, Mr. Algernon Henry,male,0,0,27042, £30.00 ,Southampton,old,First class,survivor
+632, Mr. Johan Svensson,male,0,0,347743, £7.05 ,Southampton,old,Third class,dead
+633, Dr. Max,male,0,0,13214, £30.50 ,Cherbourg,middle age,First class,survivor
+635, Miss. Mabel,female,3,2,347088, £27.90 ,Southampton,kid,Third class,dead
+636, Miss. Mary,female,0,0,237668, £13.00 ,Southampton,Youth,Second class,survivor
+637, Mr. Antti Gustaf,male,0,0,STON/O 2. 3101292, £7.92 ,Southampton,middle age,Third class,dead
+638, Mr. Harvey,male,1,1,C.A. 31921, £26.25 ,Southampton,middle age,Second class,dead
+639, Mrs. Juha Maria,female,0,5,3101295, £39.69 ,Southampton,middle age,Third class,dead
+641, Mr. Hans Peder,male,0,0,350050, £7.85 ,Southampton,Youth,Third class,dead
+642, Mlle. Emma,female,0,0,PC 17477, £69.30 ,Cherbourg,Youth,First class,survivor
+643, Miss. Margit Elizabeth,female,3,2,347088, £27.90 ,Southampton,kid,Third class,dead
+645, Miss. Eugenie,female,2,1,2666, £19.26 ,Cherbourg,kid,Third class,survivor
+646, Mr. Henry Sleeper,male,1,0,PC 17572, £76.73 ,Cherbourg,middle age,First class,survivor
+647, Mr. Liudevit,male,0,0,349231, £7.90 ,Southampton,Youth,Third class,dead
+648, Col. Oberst Alfons,male,0,0,13213, £35.50 ,Cherbourg,old,First class,survivor
+650, Miss. Amy Zillah,female,0,0,CA. 2314, £7.55 ,Southampton,Youth,Third class,survivor
+652, Miss. Elsie,female,0,1,231919, £23.00 ,Southampton,Youth,Second class,survivor
+653, Mr. Johannes Halvorsen,male,0,0,8475, £8.43 ,Southampton,Youth,Third class,dead
+655," Miss. Hanora Nora""""""""",female,0,0,365226, £6.75 ,Queenstown,Youth,Third class,dead
+656, Mr. Leonard Mark,male,2,0,S.O.C. 14879, £73.50 ,Southampton,Youth,Second class,dead
+658, Mrs. John Catherine,female,1,1,364849, £15.50 ,Queenstown,middle age,Third class,dead
+659, Mr. George Floyd,male,0,0,29751, £13.00 ,Southampton,Youth,Second class,dead
+660, Mr. Arthur Webster,male,0,2,35273, £113.28 ,Cherbourg,old,First class,dead
+661, Dr. Henry William,male,2,0,PC 17611, £133.65 ,Southampton,middle age,First class,survivor
+662, Mr. Mohamed,male,0,0,2623, £7.22 ,Cherbourg,middle age,Third class,dead
+663, Mr. Edward Pomeroy,male,0,0,5727, £25.59 ,Southampton,middle age,First class,dead
+664, Mr. Peju,male,0,0,349210, £7.50 ,Southampton,middle age,Third class,dead
+665, Mr. Eino William,male,1,0,STON/O 2. 3101285, £7.92 ,Southampton,Youth,Third class,survivor
+666, Mr. Lewis,male,2,0,S.O.C. 14879, £73.50 ,Southampton,middle age,Second class,dead
+667, Mr. Reginald Fenton,male,0,0,234686, £13.00 ,Southampton,Youth,Second class,dead
+669, Mr. Jacob,male,0,0,A/5 3536, £8.05 ,Southampton,middle age,Third class,dead
+671, Mrs. Thomas William,female,1,1,29750, £39.00 ,Southampton,middle age,Second class,survivor
+672, Mr. Thornton,male,1,0,F.C. 12750, £52.00 ,Southampton,middle age,First class,dead
+673, Mr. Henry Michael,male,0,0,C.A. 24580, £10.50 ,Southampton,old,Second class,dead
+674, Mr. Charles,male,0,0,244270, £13.00 ,Southampton,middle age,Second class,survivor
+676, Mr. Gustaf Hjalmar,male,0,0,349912, £7.78 ,Southampton,Youth,Third class,dead
+677, Mr. Frederick Charles,male,0,0,342826, £8.05 ,Southampton,Youth,Third class,dead
+678, Miss. Anna Sofia,female,0,0,4138, £9.84 ,Southampton,Youth,Third class,survivor
+679, Mrs. Frederick Augusta,female,1,6,CA 2144, £46.90 ,Southampton,middle age,Third class,dead
+680, Mr. Thomas Drake,male,0,1,PC 17755, £512.33 ,Cherbourg,middle age,First class,survivor
+682, Mr. Hammad,male,0,0,PC 17572, £76.73 ,Cherbourg,Youth,First class,survivor
+683, Mr. Thor Anderson,male,0,0,6563, £9.22 ,Southampton,Youth,Third class,dead
+684, Mr. Charles Edward,male,5,2,CA 2144, £46.90 ,Southampton,Teen,Third class,dead
+685, Mr. Thomas William,male,1,1,29750, £39.00 ,Southampton,old,Second class,dead
+686, Mr. Joseph Philippe,male,1,2,SC/Paris 2123, £41.58 ,Cherbourg,Youth,Second class,dead
+687, Mr. Jaako Arnold,male,4,1,3101295, £39.69 ,Southampton,Teen,Third class,dead
+688, Mr. Branko,male,0,0,349228, £10.17 ,Southampton,Youth,Third class,dead
+689, Mr. Eberhard Thelander,male,0,0,350036, £7.80 ,Southampton,Youth,Third class,dead
+690, Miss. Georgette Alexandra,female,0,1,24160, £211.34 ,Southampton,Teen,First class,survivor
+691, Mr. Albert Adrian,male,1,0,17474, £57.00 ,Southampton,middle age,First class,survivor
+692, Miss. Manca,female,0,1,349256, £13.42 ,Cherbourg,kid,Third class,survivor
+694, Mr. Khalil,male,0,0,2672, £7.22 ,Cherbourg,Youth,Third class,dead
+695, Col. John,male,0,0,113800, £26.55 ,Southampton,old,First class,dead
+696, Mr. Charles Henry,male,0,0,248731, £13.50 ,Southampton,old,Second class,dead
+697, Mr. James,male,0,0,363592, £8.05 ,Southampton,middle age,Third class,dead
+699, Mr. John Borland,male,1,1,17421, £110.88 ,Cherbourg,middle age,First class,dead
+700, Mr. Adolf Mathias,male,0,0,348121, £7.65 ,Southampton,middle age,Third class,dead
+701, Mrs. John Jacob,female,1,0,PC 17757, £227.52 ,Cherbourg,Youth,First class,survivor
+702, Mr. Spencer Victor,male,0,0,PC 17475, £26.29 ,Southampton,middle age,First class,survivor
+703, Miss. Saiide,female,0,1,2691, £14.45 ,Cherbourg,Youth,Third class,dead
+704, Mr. Martin,male,0,0,36864, £7.74 ,Queenstown,Youth,Third class,dead
+705, Mr. Henrik Juul,male,1,0,350025, £7.85 ,Southampton,Youth,Third class,dead
+706, Mr. Henry Samuel,male,0,0,250655, £26.00 ,Southampton,middle age,Second class,dead
+707," Mrs. Florence Fannie""""""""",female,0,0,223596, £13.50 ,Southampton,middle age,Second class,survivor
+708, Mr. Edward Pennington,male,0,0,PC 17476, £26.29 ,Southampton,middle age,First class,survivor
+709, Miss. Alice,female,0,0,113781, £151.55 ,Southampton,Youth,First class,survivor
+711, Mlle. Berthe Antonine,female,0,0,PC 17482, £49.50 ,Cherbourg,Youth,First class,survivor
+713, Mr. Elmer Zebley,male,1,0,19996, £52.00 ,Southampton,middle age,First class,survivor
+714, Mr. August Viktor,male,0,0,7545, £9.48 ,Southampton,Youth,Third class,dead
+715, Mr. Samuel,male,0,0,250647, £13.00 ,Southampton,old,Second class,dead
+716, Mr. Peter Andreas,male,0,0,348124, £7.65 ,Southampton,Youth,Third class,dead
+717, Miss. Caroline Louise,female,0,0,PC 17757, £227.52 ,Cherbourg,middle age,First class,survivor
+718, Miss. Edwina Celia,female,0,0,34218, £10.50 ,Southampton,Youth,Second class,survivor
+720, Mr. Malkolm Joackim,male,0,0,347062, £7.78 ,Southampton,middle age,Third class,dead
+721, Miss. Annie Jessie,female,0,1,248727, £33.00 ,Southampton,kid,Second class,survivor
+722, Mr. Svend Lauritz,male,1,0,350048, £7.05 ,Southampton,Teen,Third class,dead
+723, Mr. William Henry,male,0,0,12233, £13.00 ,Southampton,middle age,Second class,dead
+724, Mr. Henry Price,male,0,0,250643, £13.00 ,Southampton,middle age,Second class,dead
+725, Mr. Norman Campbell,male,1,0,113806, £53.10 ,Southampton,Youth,First class,survivor
+726, Mr. Luka,male,0,0,315094, £8.66 ,Southampton,Youth,Third class,dead
+727, Mrs. Peter Henry,female,3,0,31027, £21.00 ,Southampton,Youth,Second class,survivor
+729, Mr. Kurt Arnold,male,1,0,236853, £26.00 ,Southampton,Youth,Second class,dead
+730, Miss. Pieta Sofia,female,1,0,STON/O2. 3101271, £7.92 ,Southampton,Youth,Third class,dead
+731, Miss. Elisabeth Walton,female,0,0,24160, £211.34 ,Southampton,Youth,First class,survivor
+732, Mr. Houssein G,male,0,0,2699, £18.79 ,Cherbourg,Teen,Third class,dead
+734, Mr. William John,male,0,0,28425, £13.00 ,Southampton,Youth,Second class,dead
+735, Mr. Moses Aaron,male,0,0,233639, £13.00 ,Southampton,Youth,Second class,dead
+736, Mr. Leslie,male,0,0,54636, £16.10 ,Southampton,Youth,Third class,dead
+737, Mrs. Edward Margaret,female,1,3,W./C. 6608, £34.38 ,Southampton,middle age,Third class,dead
+738, Mr. Gustave J,male,0,0,PC 17755, £512.33 ,Cherbourg,middle age,First class,survivor
+742, Mr. Tyrell William,male,1,0,19877, £78.85 ,Southampton,middle age,First class,dead
+743, Miss. Susan Parker,female,2,2,PC 17608, £262.38 ,Cherbourg,Youth,First class,survivor
+744, Mr. Neal,male,1,0,376566, £16.10 ,Southampton,Youth,Third class,dead
+745, Mr. Juho,male,0,0,STON/O 2. 3101288, £7.92 ,Southampton,middle age,Third class,survivor
+746, Capt. Edward Gifford,male,1,1,WE/P 5735, £71.00 ,Southampton,old,First class,dead
+747, Mr. Rossmore Edward,male,1,1,C.A. 2673, £20.25 ,Southampton,Teen,Third class,dead
+748, Miss. Anna,female,0,0,250648, £13.00 ,Southampton,Youth,Second class,survivor
+749, Mr. Daniel Warner,male,1,0,113773, £53.10 ,Southampton,Youth,First class,dead
+750, Mr. Michael,male,0,0,335097, £7.75 ,Queenstown,middle age,Third class,dead
+751, Miss. Joan,female,1,1,29103, £23.00 ,Southampton,kid,Second class,survivor
+752, Master. Meier,male,0,1,392096, £12.48 ,Southampton,kid,Third class,survivor
+753, Mr. Johannes Joseph,male,0,0,345780, £9.50 ,Southampton,middle age,Third class,dead
+754, Mr. Lalio,male,0,0,349204, £7.90 ,Southampton,Youth,Third class,dead
+755, Mrs. Samuel Jane,female,1,2,220845, £65.00 ,Southampton,middle age,Second class,survivor
+756, Master. Viljo,male,1,1,250649, £14.50 ,Southampton,kid,Second class,survivor
+757, Mr. August Sigfrid,male,0,0,350042, £7.80 ,Southampton,Youth,Third class,dead
+758, Mr. Percy Andrew,male,0,0,29108, £11.50 ,Southampton,Youth,Second class,dead
+759, Mr. Thomas Leonard,male,0,0,363294, £8.05 ,Southampton,middle age,Third class,dead
+760, the Countess. of,female,0,0,110152, £86.50 ,Southampton,middle age,First class,survivor
+762, Mr. Iisakki Antino,male,0,0,SOTON/O2 3101272, £7.12 ,Southampton,middle age,Third class,dead
+763, Mr. Hanna Assi,male,0,0,2663, £7.23 ,Cherbourg,Youth,Third class,survivor
+764, Mrs. William Ernest,female,1,2,113760, £120.00 ,Southampton,middle age,First class,survivor
+765, Mr. Hans Linus,male,0,0,347074, £7.78 ,Southampton,Teen,Third class,dead
+766, Mrs. John C,female,1,0,13502, £77.96 ,Southampton,old,First class,survivor
+768, Miss. Mary,female,0,0,364850, £7.75 ,Queenstown,middle age,Third class,dead
+770, Mr. Daniel Danielsen,male,0,0,8471, £8.36 ,Southampton,middle age,Third class,dead
+771, Mr. Rene Aime,male,0,0,345781, £9.50 ,Southampton,Youth,Third class,dead
+772, Mr. Niels Peder,male,0,0,350047, £7.85 ,Southampton,middle age,Third class,dead
+773, Mrs. Mary ,female,0,0,S.O./P.P. 3, £10.50 ,Southampton,old,Second class,dead
+775, Mrs. Elizabeth Eliza,female,1,3,29105, £23.00 ,Southampton,old,Second class,survivor
+776, Mr. Pehr Fabian,male,0,0,347078, £7.75 ,Southampton,Youth,Third class,dead
+778, Miss. Virginia Ethel,female,0,0,364516, £12.48 ,Southampton,kid,Third class,survivor
+780, Mrs. Edward Scott,female,0,1,24160, £211.34 ,Southampton,middle age,First class,survivor
+781, Miss. Banoura,female,0,0,2687, £7.23 ,Cherbourg,Teen,Third class,survivor
+782, Mrs. Albert Adrian,female,1,0,17474, £57.00 ,Southampton,Teen,First class,survivor
+783, Mr. Milton Clyde,male,0,0,113501, £30.00 ,Southampton,Youth,First class,dead
+785, Mr. William,male,0,0,SOTON/O.Q. 3101312, £7.05 ,Southampton,Youth,Third class,dead
+786, Mr. Abraham David,male,0,0,374887, £7.25 ,Southampton,Youth,Third class,dead
+787, Miss. Anna Sofia,female,0,0,3101265, £7.50 ,Southampton,Youth,Third class,survivor
+788, Master. George Hugh,male,4,1,382652, £29.12 ,Queenstown,kid,Third class,dead
+789, Master. Bertram Vere,male,1,2,C.A. 2315, £20.58 ,Southampton,kid,Third class,survivor
+790, Mr. Benjamin,male,0,0,PC 17593, £79.20 ,Cherbourg,middle age,First class,dead
+792, Mr. Alfred,male,0,0,239865, £26.00 ,Southampton,Teen,Second class,dead
+795, Mr. Ristiu,male,0,0,349203, £7.90 ,Southampton,Youth,Third class,dead
+796, Mr. Richard,male,0,0,28213, £13.00 ,Southampton,middle age,Second class,dead
+797, Dr. Alice Farnham,female,0,0,17465, £25.93 ,Southampton,middle age,First class,survivor
+798, Mrs. Mara,female,0,0,349244, £8.68 ,Southampton,middle age,Third class,survivor
+799, Mr. Yousseff,male,0,0,2685, £7.23 ,Cherbourg,Youth,Third class,dead
+800, Mrs. Jean Baptiste,female,1,1,345773, £24.15 ,Southampton,Youth,Third class,dead
+801, Mr. Martin,male,0,0,250647, £13.00 ,Southampton,middle age,Second class,dead
+802, Mrs. Harvey Charlotte,female,1,1,C.A. 31921, £26.25 ,Southampton,middle age,Second class,survivor
+803, Master. William Thornton,male,1,2,113760, £120.00 ,Southampton,Teen,First class,survivor
+804, Master. Assad Alexander,male,0,1,2625, £8.52 ,Cherbourg,kid,Third class,survivor
+805, Mr. Oskar Arvid,male,0,0,347089, £6.98 ,Southampton,Youth,Third class,survivor
+806, Mr. Karl Johan,male,0,0,347063, £7.78 ,Southampton,middle age,Third class,dead
+807, Mr. Thomas Jr,male,0,0,112050, £-   ,Southampton,middle age,First class,dead
+808, Miss. Ellen Natalia,female,0,0,347087, £7.78 ,Southampton,Youth,Third class,dead
+809, Mr. August,male,0,0,248723, £13.00 ,Southampton,middle age,Second class,dead
+810, Mrs. Norman Campbell,female,1,0,113806, £53.10 ,Southampton,middle age,First class,survivor
+811, Mr. William,male,0,0,3474, £7.89 ,Southampton,Youth,Third class,dead
+812, Mr. James,male,0,0,A/4 48871, £24.15 ,Southampton,middle age,Third class,dead
+813, Mr. Richard James,male,0,0,28206, £10.50 ,Southampton,middle age,Second class,dead
+814, Miss. Ebba Iris,female,4,2,347082, £31.28 ,Southampton,kid,Third class,dead
+815, Mr. Ernest Portage,male,0,0,364499, £8.05 ,Southampton,middle age,Third class,dead
+817, Miss. Wendla Maria,female,0,0,STON/O2. 3101290, £7.92 ,Southampton,Youth,Third class,dead
+818, Mr. Albert,male,1,1,S.C./PARIS 2079, £37.00 ,Cherbourg,middle age,Second class,dead
+819, Mr. John Fredrik,male,0,0,C 7075, £6.45 ,Southampton,middle age,Third class,dead
+820, Master. Karl Thorsten,male,3,2,347088, £27.90 ,Southampton,kid,Third class,dead
+821, Mrs. Charles Melville,female,1,1,12749, £93.50 ,Southampton,old,First class,survivor
+822, Mr. Nikola,male,0,0,315098, £8.66 ,Southampton,Youth,Third class,survivor
+823, Jonkheer. John George,male,0,0,19972, £-   ,Southampton,middle age,First class,dead
+824, Mrs. Beila ,female,0,1,392096, £12.48 ,Southampton,Youth,Third class,survivor
+825, Master. Urho Abraham,male,4,1,3101295, £39.69 ,Southampton,kid,Third class,dead
+828, Master. Andre,male,0,2,S.C./PARIS 2079, £37.00 ,Cherbourg,kid,Second class,survivor
+830, Mrs. George Nelson,female,0,0,113572, £80.00 ,NULL,old,First class,survivor
+831, Mrs. Antoni Selini,female,1,0,2659, £14.45 ,Cherbourg,Teen,Third class,survivor
+832, Master. George Sibley,male,1,1,29106, £18.75 ,Southampton,kid,Second class,survivor
+834, Mr. Albert,male,0,0,347468, £7.85 ,Southampton,Youth,Third class,dead
+835, Mr. Owen George,male,0,0,2223, £8.30 ,Southampton,Youth,Third class,dead
+836, Miss. Sara Rebecca,female,1,1,PC 17756, £83.16 ,Cherbourg,middle age,First class,survivor
+837, Mr. Jakob,male,0,0,315097, £8.66 ,Southampton,Youth,Third class,dead
+839, Mr. Chang,male,0,0,1601, £56.50 ,Southampton,middle age,Third class,survivor
+841, Mr. Ilmari Rudolf,male,0,0,SOTON/O2 3101287, £7.92 ,Southampton,Youth,Third class,dead
+842, Mr. Thomas Charles,male,0,0,S.O./P.P. 3, £10.50 ,Southampton,Teen,Second class,dead
+843, Miss. Augusta,female,0,0,113798, £31.00 ,Cherbourg,Youth,First class,survivor
+844, Mr. Peter L,male,0,0,2683, £6.44 ,Cherbourg,middle age,Third class,dead
+845, Mr. Jeso,male,0,0,315090, £8.66 ,Southampton,Teen,Third class,dead
+846, Mr. Anthony,male,0,0,C.A. 5547, £7.55 ,Southampton,middle age,Third class,dead
+848, Mr. Marin,male,0,0,349213, £7.90 ,Cherbourg,middle age,Third class,dead
+849, Rev. John,male,0,1,248727, £33.00 ,Southampton,Youth,Second class,dead
+851, Master. Sigvard Harald,male,4,2,347082, £31.28 ,Southampton,kid,Third class,dead
+852, Mr. Johan,male,0,0,347060, £7.78 ,Southampton,old,Third class,dead
+853, Miss. Nourelain,female,1,1,2678, £15.25 ,Cherbourg,kid,Third class,dead
+854, Miss. Mary Conover,female,0,1,PC 17592, £39.40 ,Southampton,Teen,First class,survivor
+855, Mrs. Ernest Courtenay,female,1,0,244252, £26.00 ,Southampton,middle age,Second class,dead
+856, Mrs. Sam Leah,female,0,1,392091, £9.35 ,Southampton,Youth,Third class,survivor
+857, Mrs. George Dennick,female,1,1,36928, £164.87 ,Southampton,middle age,First class,survivor
+858, Mr. Peter Denis,male,0,0,113055, £26.55 ,Southampton,old,First class,survivor
+859, Mrs. Solomon Latifa,female,0,3,2666, £19.26 ,Cherbourg,Youth,Third class,survivor
+861, Mr. Claus Peter,male,2,0,350026, £14.11 ,Southampton,middle age,Third class,dead
+862, Mr. Frederick Edward,male,1,0,28134, £11.50 ,Southampton,Youth,Second class,dead
+863, Mrs. Frederick Joel,female,0,0,17466, £25.93 ,Southampton,middle age,First class,survivor
+865, Mr. John William,male,0,0,233866, £13.00 ,Southampton,Youth,Second class,dead
+866, Mrs. Karolina ,female,0,0,236852, £13.00 ,Southampton,middle age,Second class,survivor
+867, Miss. Asuncion,female,1,0,SC/PARIS 2149, £13.86 ,Cherbourg,Youth,Second class,survivor
+868, Mr. Washington Augustus,male,0,0,PC 17590, £50.50 ,Southampton,middle age,First class,dead
+870, Master. Harold Theodor,male,1,1,347742, £11.13 ,Southampton,kid,Third class,survivor
+871, Mr. Cerin,male,0,0,349248, £7.90 ,Southampton,Youth,Third class,dead
+872, Mrs. Richard Leonard,female,1,1,11751, £52.55 ,Southampton,middle age,First class,survivor
+873, Mr. Frans Olof,male,0,0,695, £5.00 ,Southampton,middle age,First class,dead
+874, Mr. Victor,male,0,0,345765, £9.00 ,Southampton,middle age,Third class,dead
+875, Mrs. Samuel Hannah,female,1,0,P/PP 3381, £24.00 ,Cherbourg,Youth,Second class,survivor
+876, Miss. Adele Kiamie,female,0,0,2667, £7.22 ,Cherbourg,Teen,Third class,survivor
+877, Mr. Alfred Ossian,male,0,0,7534, £9.85 ,Southampton,Youth,Third class,dead
+878, Mr. Nedelio,male,0,0,349212, £7.90 ,Southampton,Youth,Third class,dead
+880, Mrs. Thomas Jr,female,0,1,11767, £83.16 ,Cherbourg,old,First class,survivor
+881, Mrs. William Imanita,female,0,1,230433, £26.00 ,Southampton,Youth,Second class,survivor
+882, Mr. Johann,male,0,0,349257, £7.90 ,Southampton,middle age,Third class,dead
+883, Miss. Gerda Ulrika,female,0,0,7552, £10.52 ,Southampton,Youth,Third class,dead
+884, Mr. Frederick James,male,0,0,C.A./SOTON 34068, £10.50 ,Southampton,Youth,Second class,dead
+885, Mr. Henry Jr,male,0,0,SOTON/OQ 392076, £7.05 ,Southampton,Youth,Third class,dead
+886, Mrs. William Margaret,female,0,5,382652, £29.12 ,Queenstown,middle age,Third class,dead
+887, Rev. Juozas,male,0,0,211536, £13.00 ,Southampton,Youth,Second class,dead
+888, Miss. Margaret Edith,female,0,0,112053, £30.00 ,Southampton,Youth,First class,survivor
+890, Mr. Karl Howell,male,0,0,111369, £30.00 ,Cherbourg,Youth,First class,survivor
+891, Mr. Patrick,male,0,0,370376, £7.75 ,Queenstown,middle age,Third class,dead
